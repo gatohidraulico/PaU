@@ -33,7 +33,7 @@
 # 💻💻💻 Devops
 
 ### 📘 https://roadmap.sh/devops (Ruta a seguir)
-### 📘 Hola Pau, soy Manu del pasado jsjjssj, oyep para esta parte de Devops, no encontre como tal un curso, lo que encontre fue esta guia donde ponen
+### 📘 Hola Pau, soy Manu del pasado jsjjssj, oyep para esta parte de Devops no encontre como tal un curso, lo que encontre fue esta guia donde ponen
 ### lo que +- debes de manejar para poder dedicarte a eso; lo que recomiendan es entrar a trabajar de algo de IT, agarrar callo y complementarlo con el estudio, ya con eso
 ### despues te brincas a algo de Devops, de todas formas encontre estos cursos para que +- veas que es lo que utilizan y hacen
 ### 📘 https://www.youtube.com/watch?v=xm1psJEFFIY (Video que hacen los devops) 
